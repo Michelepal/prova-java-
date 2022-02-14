@@ -26,7 +26,7 @@ public class Main {
 			System.out.println(p1punteggio + " - Vince Player1");
 		} else {
 			
-			System.out.println(p2punteggio + " - VincePlayer2");
+			System.out.println(p2punteggio + " - Vince Player2");
 		}
 		
 		/*
@@ -36,7 +36,7 @@ public class Main {
 		 * System.out.println("Inserisci il nome di un oggetto"); String cosa =
 		 * sc.nextLine(); int punteggiocosa = cosa.length(); System.out.println(cosa);
 		 * System.out.println(punteggiocosa);
-		 * System.out.println("Inserisci il nome di una città"); String citta =
+		 * System.out.println("Inserisci il nome di una cittï¿½"); String citta =
 		 * sc.nextLine(); int punteggiocitta = citta.length();
 		 * System.out.println(citta); System.out.println(punteggiocitta);
 		 */

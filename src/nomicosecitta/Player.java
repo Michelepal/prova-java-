@@ -34,7 +34,7 @@ public class Player {
 	}
 	
 	String getCitta() {
-		System.out.println("Inserisci il nome di una citt‡");
+		System.out.println("Inserisci il nome di una citt√†");
 		String citta = sc.nextLine();
 		this.punteggio +=  citta.length();
 		return citta;
